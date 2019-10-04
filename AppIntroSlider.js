@@ -262,8 +262,8 @@ const styles = StyleSheet.create({
     right: 16,
   },
   paginationDots: {
-    height: 16,
-    margin: 16,
+    height: 5,
+    margin: 10,
     flexDirection: isAndroidRTL ? 'row-reverse' : 'row',
     justifyContent: 'center',
     alignItems: 'center',
